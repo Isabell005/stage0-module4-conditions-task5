@@ -20,6 +20,7 @@ public class RangeNumbersPrinter {
             default:
                 System.out.println("out of range");
                 break;
+
         }
     }
 }
